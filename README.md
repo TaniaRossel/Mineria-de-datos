@@ -1,3 +1,4 @@
 # Mineria-de-datos
 ## Fase 1
 [Mapa mental 1](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/MapaMental_1_1810461.pdf) 
+[Presentación de técnicas de Minería](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Presentacion_Visualizacion%20de%20datos_002.pdf)
