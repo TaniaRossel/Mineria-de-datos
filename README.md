@@ -1,2 +1,3 @@
 # Mineria-de-datos
-Trabajos
+## Fase 1
+[Mapa mental 1]
