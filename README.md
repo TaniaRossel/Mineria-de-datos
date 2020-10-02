@@ -9,3 +9,5 @@
 [Ejemplo de visualización de datos PYTHON](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Visualizaci%C3%B3n.ipynb)
 
 [Ejemplo 1_Visualización de datos_002](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Ejercicios1_Visualizaci%C3%B3n%20de%20datos_002.pdf)
+
+[Resumenes de técnicas](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Resumenes_1810461.pdf)
