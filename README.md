@@ -13,3 +13,5 @@
 [Resumenes de técnicas](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Resumenes_1810461.pdf)
 
 [Mapa Mental 2](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/MapaMental_2_1810461.pdf)
+
+[Bases de datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Tarea_Basesdatos1_1810461.pdf)
