@@ -17,3 +17,5 @@
 ## Fase 2
 
 [Analisis de Bases de datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/AnalisisBD_1810461.pdf)
+
+[Ejercicios de Python (básicos)](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/PythonBasico_1810461.ipynb)
