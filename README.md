@@ -19,3 +19,5 @@
 [Analisis de Bases de datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/AnalisisBD_1810461.pdf)
 
 [Ejercicios de Python (básicos)](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/PythonBasico_1810461.ipynb)
+
+[Avance 1 PIA](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Avance1-PIA_3_002.pdf)
