@@ -21,3 +21,5 @@
 [Ejercicios de Python (básicos)](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/PythonBasico_1810461.ipynb)
 
 [Avance 1 PIA](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Avance1-PIA_3_002.pdf)
+
+[Preparación de datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Preparaci%C3%B3n%20de%20datos_3_002.ipynb) 
