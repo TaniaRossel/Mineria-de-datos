@@ -22,4 +22,6 @@
 
 [Avance 1 PIA](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Avance1-PIA_3_002.pdf)
 
-[Preparación de datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Preparaci%C3%B3n%20de%20datos_3_002.ipynb) 
+[Preparación de datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Preparaci%C3%B3n%20de%20datos_3_002.ipynb)
+
+[Visualización de datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/P2%20Visualizaci%C3%B3n%20de%20datos_03_002.ipynb)
