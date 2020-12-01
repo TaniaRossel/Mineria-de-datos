@@ -1,5 +1,6 @@
 # Mineria-de-datos
 ## Fase 1
+
 [Mapa mental 1](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/MapaMental_1_1810461.pdf) 
 
 [Presentación de técnicas de Minería: Visualización de datos](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Presentacion_Visualizacion%20de%20datos_002.pdf)
@@ -22,8 +23,12 @@
 
 [Avance 1 PIA](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Avance1-PIA_3_002.pdf)
 
+## Fase 3
+
 [Manipulación de datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/P1-Manipulaci%C3%B3n%20de%20datos_3_002.ipynb)
 
 [Visualización de datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/P2%20Visualizaci%C3%B3n%20de%20datos_03_002.ipynb)
 
 [AvancePIA_II_002_3](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/AvancePIA_ll_002_3.ipynb)
+
+[PIA_3_002](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/PIA_3_002.pdf)
